@@ -39,6 +39,4 @@ cd backend python app.py 2.Rum streamlit frontend:
 cd ../frontend streamlit run app.py
 
 
-cd backend python app.py 2.Rum streamlit frontend:
 
-cd ../frontend streamlit run app.py
